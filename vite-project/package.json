@@ -1,0 +1,18 @@
+{
+  "name": "201-a4",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Vite Project with Pull Request",
+  "type": "module",
+  "main": "main.js",
+  "author": "Brandon Iticka",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
